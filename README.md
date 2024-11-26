@@ -1,7 +1,7 @@
 # Transaction Dashboard
-MERN Stack Challenge by Roxiler
+MERN Stack Challenge by Roxiler systems
 <br/>
-View live app via this [Link](https://roxiler-transactions-dashboard.onrender.com/)
+View live app via this [Link](https://roxiler-mern-challenge.netlify.app//)
 <br/>
 <br/>
 Frontend Technologies
@@ -17,3 +17,7 @@ Backend Technologies
 - Mongoose
 - MongoDB
 - Axios
+
+Hosting
+- Backend: Render
+- Frontend: Netlify
