@@ -1,7 +1,7 @@
-# Transaction Dashboard
-MERN Stack Challenge by Roxiler systems
+# Transaction Dashboard & Statistic
+MERN Stack Challenge by Roxiler Systems
 <br/>
-View live app via this [Link](https://roxiler-mern-challenge.netlify.app//)
+View the live app via this [Link](https://roxiler-mern-challenge.netlify.app//)
 <br/>
 <br/>
 Frontend Technologies
